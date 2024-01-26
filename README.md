@@ -1,2 +1,2 @@
-# ddoherty-projects
-personal website for projects
+# Welcome to DJ Doherty's website
+Stuff!
